@@ -2,7 +2,7 @@
 title:  "Absense of light"
 subtitle: "Only lights from space"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
+avatar: "https://s1.ax1x.com/2020/06/16/NiBCAP.md.jpg"
 image: "img/d.jpg"
 date:   2015-04-23 12:12:12
 ---
