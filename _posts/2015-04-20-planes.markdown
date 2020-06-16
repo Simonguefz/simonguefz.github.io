@@ -3,7 +3,7 @@ title:  "Planes are cool!"
 subtitle: "The Fly!"
 author: "Wferr"
 avatar: "https://s1.ax1x.com/2020/06/16/NiBA1g.md.jpg"
-image: "img/a.jpg"
+image: "https://s1.ax1x.com/2020/06/16/NiBA1g.md.jpg"
 date:   2015-04-20 12:12:12
 ---
 
